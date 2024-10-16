@@ -1,0 +1,49 @@
+.fourt-section{
+    height: 650px;
+    position: relative;
+    width: 1519.2px;
+    
+}
+
+.fourth-image{
+    height: 650px; 
+    margin-left: -200px;
+}
+
+.inner-div2{
+    position: absolute;
+    top: 2140px;
+    z-index: 200;
+    
+}
+
+.realme-narzo{
+    height: 32px;
+    margin-left: 148px;
+    
+}
+
+.phone-discription3{
+    margin-left: 147px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 2040px;
+    color: white;
+}
+
+.processor-discription3{
+    font-size: 14px;
+    margin-left: 148px;
+    margin-top: 2090px;
+    line-height: 20px;
+    color: white;
+}
+
+.button-div2{
+    position: absolute;
+    top: 2442px;
+    display: flex;
+    flex-direction: row;
+        
+}

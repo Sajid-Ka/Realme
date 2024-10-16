@@ -1,0 +1,148 @@
+/*.top{
+    height: 44px;
+    background-color: #1c1b1b;
+    padding-left: 403px;
+    display: flex;
+    flex-direction: row;
+}
+
+.realme-bag-image{
+    height: 32px;
+    margin-right: 16px;
+    margin-top: 6px;
+}
+
+.app-recomendation{
+    color: white;
+    margin-top: 12.5px;
+    font-size: 14px;
+}
+
+.download-app{
+    background: #ffffff;
+    color: #000;
+    align-items: center;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 10px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    transition: background-color 0.2s;
+    margin-top: 10px;
+    margin-left: 317px;
+}
+
+.download-app:hover{
+ background-color: #ffc915;
+}
+ */
+
+.first-section{
+    height: 650px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin-bottom: 12px;
+    width: 1519.2px;
+    
+}
+
+ 
+
+ .head{
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    z-index: 200;
+ }
+
+ .realme-title-logo{
+    height: 25.6px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 38px;
+ }
+
+ .header-notes{
+    display: flex;
+    flex-direction: row;
+ }
+
+ .head-items-holder{
+    display: flex;
+    flex-direction: row;
+ }
+
+
+.store{
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+    margin-top: 21px;
+    z-index: 100;
+    cursor: pointer;
+}
+
+.new-lounch{
+    margin-top: 8px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+
+.realme-phone{
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+    margin-top: 21px;
+    margin-left: 24px; 
+    cursor: pointer;
+}
+
+.head-second-items{
+    display: flex;
+    flex-direction: row;
+}
+
+.community{
+    color: black;
+    font-size: 14px;
+    margin-top: 21px;
+    margin-left: 212.5px;
+}
+
+.support{
+    color: black;
+    font-size: 14px;
+    margin-top: 21px;
+    margin-left: 24px;
+}
+
+.search-box{
+    background-color: rgb(237, 237, 237);
+    border: none;
+    border-radius: 14px;
+    font-size: 12px;
+    font-weight: 400;
+    height: 28px;
+    width: 150px;
+    padding-left: 12px;
+    margin-top: 16px;
+    margin-left: 24px;
+}
+
+.search-icon{
+    height: 12px;
+    margin-left: -30px;
+    
+}
+
+.cat-image{
+    height: 28px;
+    margin-left: 34px;
+    margin-top: 16.5px;    
+}

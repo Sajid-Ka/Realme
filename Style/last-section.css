@@ -1,0 +1,142 @@
+.last-section{
+    height: 1476px;
+    background-color: blue;
+    margin-top: 12px;
+    margin-bottom: 37px;
+    
+}
+
+.flex-div{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.ear-pode-div{
+    height: 495px;
+    background-color: white;
+    
+}
+
+.air-pro{
+    position: absolute;
+    
+}
+
+.air-pro-para{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-bottom: 16px;
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.sound{
+    position: absolute;
+}
+
+.sound-para{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 270px;
+    margin-top: 105px;
+}
+
+.ear-pode{
+    height: 480px;
+    margin-left: -240px;
+    margin-right:12px ;
+}
+
+.watch{
+    height: 480px;
+    margin-right:12px ;
+}
+
+.watch-title{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-bottom: 16px;
+    margin-left: 1040px;
+    margin-top: 50px;
+}
+
+.watch-subtitle{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 1100px;
+    margin-top: 105px;
+}
+
+.phone-in-hand{
+    height: 480px;
+    margin-left: -257px;
+    margin-right:12px ;
+}
+
+.phone-exchange-subtitle{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 243px;
+    margin-top: 105px; 
+}
+
+.store-subtitle{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 1025px;
+    margin-top: 105px;
+
+}
+
+
+.cat-in-mall{
+    height: 480px;
+    margin-left: -250px;
+    margin-right:12px ;
+}
+
+.support-title{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-bottom: 16px;
+    margin-left: 260px;
+    margin-top: 50px;
+    color: white;
+}
+
+.support-subtitle{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 243px;
+    margin-top: 105px;
+    color: white;
+}
+
+.real-title{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-bottom: 16px;
+    margin-left: 1040px;
+    margin-top: 50px;
+    color: white;
+}
+
+.real-subtitle{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-left: 1066px;
+    margin-top: 105px;
+    color: white;
+}
+
